@@ -11,7 +11,6 @@ Welcome to xiami music genre's documentation!
    :caption: Contents:
 
    list.rst
-   last.rst
 
 Indices and tables
 ==================

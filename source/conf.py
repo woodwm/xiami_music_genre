@@ -61,7 +61,7 @@ exclude_patterns = []
 html_theme = 'sphinx_book_theme'
 
 html_theme_options = {
-    "repository_url": "https://github.com/{your-docs-url}",
+    "repository_url": "https://github.com/woodwm/xiami_music_genre",
     "use_issues_button": True,
     "use_download_button": True,
     "home_page_in_toc": True
